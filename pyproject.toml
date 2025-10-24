@@ -12,7 +12,8 @@ dependencies = [
     "matplotlib (>=3.10.7,<4.0.0)",
     "btrees (>=6.1,<7.0)",
     "sortedcontainers (>=2.4.0,<3.0.0)",
-    "pandas (>=2.3.3,<3.0.0)"
+    "pandas (>=2.3.3,<3.0.0)",
+    "mmh3 (>=5.2.0,<6.0.0)"
 ]
 
 [tool.poetry]
